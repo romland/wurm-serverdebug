@@ -1,5 +1,7 @@
 2022 note: I posted original announcement here: https://forum.wurmonline.com/index.php?/topic/164491-released-friyas-server-debug-locating-bugs-and-performance-issues/
 
+Note: I do not know whether this mod works on latest version of Wurm Unlimited. In general, though, pretty small patches are needed for upgrades.
+
 =====
 
  Intermittent crashes or freezes are horrible, using a "game hoster" or not. Servers have died and been shut down for less. This will at at the very least help pinning down possible problems that may be introduced by a mod, a combination of mods or just plain old server bugs.
